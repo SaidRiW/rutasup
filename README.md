@@ -6,4 +6,6 @@ El proyecto se implementará utilizando tecnologías de geolocalización en tiem
 
 Actualmente del lado de la aplicación móvil ya se tiene realizado el apartado de Navegación, en el que se visualizan las rutas más cercanas al usuario para posteriormente seleccionar una ruta y visualizar en tiempo real la ubicación de combi de esa ruta.
 
-<img src="https://github.com/user-attachments/assets/fc806ca3-dba7-403a-8a9c-30624971021f" width="500" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc806ca3-dba7-403a-8a9c-30624971021f" width="500" />
+</p>
